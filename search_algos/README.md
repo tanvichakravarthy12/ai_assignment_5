@@ -7,10 +7,9 @@ This project executes and compares four AI search algorithms used for decision-m
 - Heuristic Alpha-Beta Search
 - Monte Carlo Tree Search 
 
-The algorithms are evaluated on two classic games:
+The algorithms are evaluated on a classic game:
 
 - Tic-Tac-Toe
-- Connect Four
 
 ## Structure
 
@@ -53,8 +52,6 @@ The project includes **10 test cases** covering:
 | Category | Tests |
 |----------|-------|
 | Tic-Tac-Toe | 5 |
-| Connect Four | 5 |
-| Total | 10 |
 
 ## Running the Project
 
